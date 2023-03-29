@@ -19,22 +19,22 @@ Tipo/Género:
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: Dayana
+Nombre: Abril
 
 
 ### Historia
-
+Abril lleva tiempo reflexionando sobre lo que realmente quiere hacer con su vida. No cuenta con la ayuda de sus padres, quienes son más conservadores, por lo que un día decide enfrentarlos y exponerles sus inquietudes. Sin llegar a un acuerdo, decide dejar su hogar y comenzar una nueva vida de forma totalmente independiente, lo que traerá tanto buenas como malas experiencias.
 
 ### Contexto
-
+Ciudad de Granada, en concreto, en el famoso kebab Marchica. Siglo XXI.
 
 ### Conflicto 
-
+Conflictos familiares, amorosos, personales e de interculturalidad.
 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y enlace a interactivo) https://miro.com/app/board/uXjVOXeHrHw=/?moveToWidget=3458764546820115388&cot=10
 
 
 - Banner/Teaser:  (enlace) 
