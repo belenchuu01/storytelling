@@ -34,13 +34,18 @@ Conflictos familiares, amorosos, personales e de interculturalidad.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) https://miro.com/app/board/uXjVOXeHrHw=/?moveToWidget=3458764546820115388&cot=10
+- Personaje: (ficha técnica personaje y enlace al interactivo) 
+
+https://user-images.githubusercontent.com/128467447/228462663-64af9b40-e6c9-46a4-8e5c-089c554b3355.jpeg
+https://miro.com/app/board/uXjVOXeHrHw=/?moveToWidget=3458764546820115388&cot=10
 
 
 - Banner/Teaser:  (enlace) 
 
 
 - Storytelling: (enlace) 
+
+- Promoción: (enlace al quizz) https://romancenelalhandalusquizz.h5p.com/content/1291913735991709647
 
 
 
@@ -57,9 +62,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- Miriam Bertos Muñoz
+- Erika Reinoso Fernández
+- Belén Fernández Doblas
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
