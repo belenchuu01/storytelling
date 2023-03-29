@@ -18,6 +18,7 @@ Tipo/Género:
 ### Personaje
 
 Nombre: Abril
+
 ![Ficha técnica personaje](https://user-images.githubusercontent.com/128467447/228472524-443fda7c-740a-4a18-bd37-9b13d34439d1.jpeg)
 
 
